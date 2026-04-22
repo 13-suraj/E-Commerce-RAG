@@ -2,6 +2,14 @@
 
 This project uses Retrieval-Augmented Generation (RAG) to recommend products.
 
+## Contributors
+- Rupsa Dutta
+- Abhishek Singh
+- Suraj Keshari
+- Aniket Chakraborty
+- Awais Badar
+- Anish Kumar Baitha
+
 ## Features
 - Vector search using Qdrant
 - Embeddings using HuggingFace
